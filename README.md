@@ -6,7 +6,7 @@
 
 <p align="center">
   Your UniFi Protect and IP cameras, live as your Mac's desktop wallpaper.<br>
-  <a href="https://panopaper.app">panopaper.app</a> · <a href="https://panopaper.app/downloading">Download</a> · <a href="https://www.reddit.com/r/panopaper/">r/panopaper</a>
+  <a href="https://panopaper.app">panopaper.app</a> · <a href="https://panopaper.app/download">Download</a> · <a href="https://www.reddit.com/r/panopaper/">r/panopaper</a>
 </p>
 
 <picture>
@@ -39,7 +39,7 @@ Every feature is free. For the first seven days your cameras show without the "U
 
 ## Get it
 
-- **Download:** [panopaper.app/downloading](https://panopaper.app/downloading). PanoPaper keeps itself up to date.
+- **Download:** [panopaper.app/download](https://panopaper.app/download). PanoPaper keeps itself up to date.
 - **Help:** [panopaper.app/docs](https://panopaper.app/docs/)
 - **News and questions:** [r/panopaper](https://www.reddit.com/r/panopaper/)
 
